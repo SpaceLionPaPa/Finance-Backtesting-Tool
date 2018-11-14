@@ -1,0 +1,16 @@
+{
+	"amt_stocks":"amount_stocks",
+	"sz_lt_stocks":"mkt_cap_float_stocks",
+	"sz_total_stocks":"mkt_cap_ard_stocks",
+	"zt_stocks":"maxupordown_stocks",
+	"new_stock_stocks":"is_new_stock_stocks",
+	"new_stock40_stocks":"is_new_stock_40_stocks",
+	"new_stock125_stocks":"is_new_stock_125_stocks",
+        "new_stock200_stocks":"is_new_stock_200_stocks",
+	"new_stock280_stocks":"is_new_stock_280_stocks",
+	"min_zt_stocks":"precise_zt_stocks",
+	"yzb_stocks":"yiziban_stocks",
+	"min_yzb_stocks":"min_yiziban_stocks",
+	"pct_stocks":"pct_chg_stocks",
+	"ipo_date_stocks":"ipo_date_stocks"
+}
